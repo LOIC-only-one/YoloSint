@@ -48,7 +48,6 @@ url = {
     "tiktok": "https://www.tiktok.com/@"+username,
     "pinterest": "https://www.pinterest.com/"+username,
     "linkedin": "https://www.linkedin.com/in/"+username,
-    "pornhub": "https://fr.pornhub.com/model/"+username,
 }
     
 
